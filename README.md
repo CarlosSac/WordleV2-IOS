@@ -2,7 +2,7 @@
 
 Submitted by: **Carlos Sac**
 
-**Wordle** is an app that ... [TODO] 
+**WordleIOS** is an app that recreates a simple version of the popular word game Wordle.
 
 Time spent: **X** hours spent in total
 
