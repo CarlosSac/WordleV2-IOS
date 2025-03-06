@@ -4,7 +4,7 @@ Submitted by: **Carlos Sac**
 
 **WordleIOS** is an app that recreates a simple version of the popular word game Wordle.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
