@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] App displays a reset button on the top left to reset the game (but make no changes to the settings)
+- [x] App displays a reset button on the top left to reset the game (but make no changes to the settings)
 
 The following **additional** features are implemented:
 
@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-
+<img src='demo.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
 ## Notes
 
