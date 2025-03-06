@@ -43,6 +43,7 @@ class BoardController: NSObject,
     applyIsAlienWordleSettings(with: settings)
     numTimesGuessed = 0
     collectionView.reloadData()
+      print("Final goal word: \(goalWord)")
   }
   
   // Exercise 5 Pt. 2 (optional): This function only needs to be implemented if you decide to do the optional requirement (see Pt. 1 in ViewController.swift)
@@ -51,6 +52,8 @@ class BoardController: NSObject,
   func resetBoardWithCurrentSettings() {
     // START YOUR CODE HERE
     // ...
+      numTimesGuessed = 0
+      collectionView.reloadData()
     // END YOUR CODE HERE
   }
   
@@ -110,6 +113,7 @@ class BoardController: NSObject,
     // ...
       if let isAlien = settings[kIsAlienWordleKey] as? Bool {
           isAlienWordle = isAlien
+          
       }
     // START YOUR CODE HERE
   }
